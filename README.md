@@ -1,7 +1,8 @@
 #Login Form
 
 A login form that uses PHP and MySQL.
-Usernames and passwords are queried from a MySQL database. Sessions are use to stop users from advancing before a correct username/password is entered.
+Usernames and passwords are queried from a MySQL database. Sessions are use to stop users from advancing before a correct username/password is entered. <br/>
+This form works well with the <a href="https://github.com/cfabian/signup_form">Signup Form</a>.
 
 #Usage 
 
